@@ -6,7 +6,7 @@ title = "欢迎来到韩冰的个人页面"
 text = "这是一个我的自拍照，欢迎大家前来欣赏！"
 image_url = "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"  # 网络图或本地文件路径
 github_username = "Kore-yoshi"  # 替换为你的 GitHub 用户名
-repo_name = "my-qr-page"  # 替换为你的仓库名
+repo_name = "0515"  # 替换为你的仓库名
 
 # === 生成本地 HTML 页面 ===
 html_content = f"""<!DOCTYPE html>
