@@ -16,7 +16,9 @@ jobs:
         with:
           python-version: '3.x'
       - name: Install dependencies
-        run: pip install qrcode
+        run: |
+          pip install qrcode
+          pip install Pillow
       - name: Run main.py to generate content.html and qrcode.png
         run: python main.py
       - name: Deploy to GitHub Pages
