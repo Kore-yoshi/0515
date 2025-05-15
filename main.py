@@ -2,7 +2,7 @@ import qrcode
 from pathlib import Path
 
 # === 输入你的内容 ===
-title = "欢迎来到韩冰的个人页面"
+title = "欢迎来到赵子贺的个人页面"
 text = "这是一个我的自拍照，欢迎大家前来欣赏！"
 image_url = "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"  # 网络图或本地文件路径
 github_username = "Kore-yoshi"  # 替换为你的 GitHub 用户名
