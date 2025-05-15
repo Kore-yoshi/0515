@@ -3,7 +3,7 @@ from pathlib import Path
 
 # === 输入你的内容 ===
 title = "欢迎来到赵子贺的个人页面"
-text = "这是一个我的自拍照，欢迎大家前来欣赏！"
+text = "真帅吧！"
 image_url = "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"  # 网络图或本地文件路径
 github_username = "Kore-yoshi"  # 替换为你的 GitHub 用户名
 repo_name = "0515"  # 替换为你的仓库名
